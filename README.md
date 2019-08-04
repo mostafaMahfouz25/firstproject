@@ -1,3 +1,2 @@
 # firstproject
-check git
-god test for me using github
+check git , good test for me using github
